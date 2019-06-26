@@ -20,5 +20,7 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
         assertEquals("com.lalorosas.quickexample", appContext.packageName)
+        // Some text added to the code.
+        // Another line of text to edit
     }
 }
