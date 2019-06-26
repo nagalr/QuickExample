@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         helloButton.setOnClickListener { v ->
             helloText.text = "Hi ".plus(nameEditText.text.toString()).plus("! Good to see you here.");
         // Here we change the features again
-
+        // and another change here.
         }
     }
 }
