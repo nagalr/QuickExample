@@ -22,5 +22,6 @@ class ExampleInstrumentedTest {
         assertEquals("com.lalorosas.quickexample", appContext.packageName)
         // Some text added to the code.
         // Another line of text to edit
+        // Last change here
     }
 }
